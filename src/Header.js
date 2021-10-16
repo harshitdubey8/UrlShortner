@@ -4,7 +4,7 @@ import styled from "styled-components";
 function header() {
   return (
     <HeaderContainer>
-      <Item>URL-Shortner - Tranzita Assignment</Item>
+      <Item>URL-Shortner - Tranzita Assignment - Harshit Dubey</Item>
     </HeaderContainer>
   );
 }
